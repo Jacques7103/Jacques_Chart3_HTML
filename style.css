@@ -74,6 +74,6 @@ a:hover {
 .chart-wrap::after {
     content: "1400";
     position: absolute;
-    margin-top: -426px;
+    margin-top: -616px;
     margin-left: 485px;
 }
